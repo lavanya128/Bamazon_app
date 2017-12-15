@@ -192,11 +192,8 @@ function createNewProduct() {
 }
 
 function bamazon() {
-	// console.log('___ENTER runBamazon___');
-
-	// Prompt manager for input
+	
 	promptManagerAction();
 }
 
-// Run the application logic
 bamazon();
